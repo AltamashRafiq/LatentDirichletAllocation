@@ -6,7 +6,9 @@ This package contains a python implementation of the Latent Dirichlet allocation
 
 and
 
-![equation](https://latex.codecogs.com/svg.image?\begin{array}{l}\hat{\phi}_{j}^{(w)}=\frac{n_{j}^{(\text&space;{w})}&plus;\beta}{n_{j}^{(\cdot)}&plus;W&space;\beta}&space;\\\hat{\theta}_{j}^{(d)}=\frac{n_{j}^{(d)}&plus;\alpha}{n^{(d)}&plus;T&space;\alpha}\end{array})
+![equation](https://latex.codecogs.com/svg.image?\hat{\phi}_{j}^{(w)}=\frac{n_{j}^{(\text&space;{w})}&plus;\beta}{n_{j}^{(\cdot)}&plus;W&space;\beta}&space;)
+
+![equation](https://latex.codecogs.com/svg.image?\hat{\theta}_{j}^{(d)}=\frac{n_{j}^{(d)}&plus;\alpha}{n^{(d)}&plus;T&space;\alpha})
 
 ---
 
